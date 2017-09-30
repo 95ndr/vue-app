@@ -1,0 +1,14 @@
+{
+  "name": "vue-app",
+  "version": "1.0.0",
+  "description": "building a vuejs app",
+  "main": "index.js",
+  "repository": "https://github.com/darleenmi/vue-app",
+  "author": "Michelle <an.darleen@outlook.com>",
+  "license": "Apache",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.4.4",
+    "yarn": "^1.1.0"
+  }
+}
